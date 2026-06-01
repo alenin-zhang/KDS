@@ -392,13 +392,13 @@ CHC影迷电影,http://nn.7x9d.cn/xz/xz_38911cd547/fjgd.php?cid=324&n=chchd_2000
 
 
 内蒙古,#genre#
-内蒙古新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88289&province=9&column=35
+内蒙古新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88289&province=9&column=35
 内蒙古蒙古语卫视,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88288&province=9&column=35
-内蒙古蒙古语文化http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88291&province=9&column=35
-内蒙古经济生活http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88294&province=9&column=35
-内蒙古农牧http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88293&province=9&column=35
-内蒙古少儿http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88290&province=9&column=35
-内蒙古文体娱乐http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88292&province=9&column=35
+内蒙古蒙古语文化,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88291&province=9&column=35
+内蒙古经济生活,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88294&province=9&column=35
+内蒙古农牧,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88293&province=9&column=35
+内蒙古少儿,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88290&province=9&column=35
+内蒙古文体娱乐,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88292&province=9&column=35
 阿拉善盟台新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88306&province=9&column=35
 巴彦淖尔台新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88304&province=9&column=35
 包头台新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88296&province=9&column=35
@@ -414,53 +414,53 @@ CHC影迷电影,http://nn.7x9d.cn/xz/xz_38911cd547/fjgd.php?cid=324&n=chchd_2000
 
 
 吉林,#genre#
-吉林新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92112&province=11&column=35
-吉林乡村http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92109&province=11&column=35
-吉林生活http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92107&province=11&column=35
-吉林都市http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92106&province=11&column=35
-吉林影视http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92108&province=11&column=35
-吉林综艺文化http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92110&province=11&column=35
-长春综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92111&province=11&column=35
-白城新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92117&province=11&column=35
-白山新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92119&province=11&column=35
-辽源新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92115&province=11&column=35
-四平新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92114&province=11&column=35
-通化新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92118&province=11&column=35
+吉林新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92112&province=11&column=35
+吉林乡村,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92109&province=11&column=35
+吉林生活,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92107&province=11&column=35
+吉林都市,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92106&province=11&column=35
+吉林影视,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92108&province=11&column=35
+吉林综艺文化,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92110&province=11&column=35
+长春综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92111&province=11&column=35
+白城新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92117&province=11&column=35
+白山新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92119&province=11&column=35
+辽源新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92115&province=11&column=35
+四平新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92114&province=11&column=35
+通化新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92118&province=11&column=35
 延边卫视,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92113&province=11&column=35
 
 
 黑龙江,#genre#
-黑龙江新闻法治http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85110&province=12&column=35
-黑龙江都市http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85112&province=12&column=35
-黑龙江农业科教http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85114&province=12&column=35
-黑龙江文体http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85108&province=12&column=35
-黑龙江影视http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85109&province=12&column=35
-大兴安岭新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85149&province=12&column=35
-鹤岗新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85136&province=12&column=35
-黑河新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85140&province=12&column=35
-七台河新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85138&province=12&column=35
-齐齐哈尔新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85121&province=12&column=35
+黑龙江新闻法治,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85110&province=12&column=35
+黑龙江都市,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85112&province=12&column=35
+黑龙江农业科教,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85114&province=12&column=35
+黑龙江文体,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85108&province=12&column=35
+黑龙江影视,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85109&province=12&column=35
+大兴安岭新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85149&province=12&column=35
+鹤岗新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85136&province=12&column=35
+黑河新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85140&province=12&column=35
+七台河新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85138&province=12&column=35
+齐齐哈尔新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85121&province=12&column=35
 
 
 江苏,#genre#
-江苏新闻http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88694&province=13&column=35
-江苏影视http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88693&province=13&column=35
-江苏综艺http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88692&province=13&column=35
-江苏城市http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88691&province=13&column=35
-江苏体育休闲http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88696&province=13&column=35
-江苏优漫卡通http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88697&province=13&column=35
-常州新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88737&province=13&column=35
+江苏新闻,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88694&province=13&column=35
+江苏影视,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88693&province=13&column=35
+江苏综艺,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88692&province=13&column=35
+江苏城市,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88691&province=13&column=35
+江苏体育休闲,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88696&province=13&column=35
+江苏优漫卡通,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88697&province=13&column=35
+常州新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=88737&province=13&column=35
 
 
 安徽,#genre#
-安徽公共http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85111&province=15&column=35
-安徽国际http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85113&province=15&column=35
-安徽经济生活http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85115&province=15&column=35
-安徽农业科教http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85116&province=15&column=35
-安徽影视http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85118&province=15&column=35
-安徽综艺体育http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85119&province=15&column=35
+安徽公共,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85111&province=15&column=35
+安徽国际,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85113&province=15&column=35
+安徽经济生活,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85115&province=15&column=35
+安徽农业科教,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85116&province=15&column=35
+安徽影视,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85118&province=15&column=35
+安徽综艺体育,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85119&province=15&column=35
 蚌埠新闻,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85128&province=15&column=35
-亳州综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85151&province=15&column=35
+亳州综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85151&province=15&column=35
 淮北新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85134&province=15&column=35
 黄山新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85144&province=15&column=35
 宿州新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85143&province=15&column=35
@@ -469,11 +469,11 @@ CHC影迷电影,http://nn.7x9d.cn/xz/xz_38911cd547/fjgd.php?cid=324&n=chchd_2000
 
 
 江西,#genre#
-江西新闻http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85494&province=17&column=35
-江西少儿http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85493&province=17&column=35
-江西经济生活http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85490&province=17&column=35
-江西公共农业http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85492&province=17&column=35
-江西都市http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85489&province=17&column=35
+江西新闻,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85494&province=17&column=35
+江西少儿,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85493&province=17&column=35
+江西经济生活,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85490&province=17&column=35
+江西公共农业,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85492&province=17&column=35
+江西都市,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85489&province=17&column=35
 抚州市,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=84932&province=17&column=35
 吉安市,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85145&province=17&column=35
 景德镇市,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=85322&province=17&column=35
@@ -510,27 +510,27 @@ CHC影迷电影,http://nn.7x9d.cn/xz/xz_38911cd547/fjgd.php?cid=324&n=chchd_2000
 
 
 四川,#genre#
-巴中综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92145&province=25&column=35
+巴中综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92145&province=25&column=35
 
 
 云南,#genre#
-保山综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92134&province=27&column=35
-楚雄新闻http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92127&province=27&column=35
-大理新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92128&province=27&column=35
-德宏新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92121&province=27&column=35
-迪庆新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92132&province=27&column=35
-红河综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92123&province=27&column=35
-丽江新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92130&province=27&column=35
-临沧新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92124&province=27&column=35
-怒江新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92133&province=27&column=35
-曲靖综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92135&province=27&column=35
-文山综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92122&province=27&column=35
-玉溪新闻综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92131&province=27&column=35
-昭通综合http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92125&province=27&column=35
+保山综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92134&province=27&column=35
+楚雄新闻,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92127&province=27&column=35
+大理新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92128&province=27&column=35
+德宏新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92121&province=27&column=35
+迪庆新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92132&province=27&column=35
+红河综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92123&province=27&column=35
+丽江新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92130&province=27&column=35
+临沧新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92124&province=27&column=35
+怒江新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92133&province=27&column=35
+曲靖综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92135&province=27&column=35
+文山综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92122&province=27&column=35
+玉溪新闻综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92131&province=27&column=35
+昭通综合,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92125&province=27&column=35
 
 
 宁夏,#genre#
-宁夏公共http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92137&province=32&column=35
-宁夏经济http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92138&province=32&column=35
-宁夏文旅http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92139&province=32&column=35
-宁夏少儿http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92140&province=32&column=35
+宁夏公共,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92137&province=32&column=35
+宁夏经济,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92138&province=32&column=35
+宁夏文旅,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92139&province=32&column=35
+宁夏少儿,http://nn.7x9d.cn/xz1/xz_1ad9665c0f/k-web/ku9/js/zgst.js?id=92140&province=32&column=35
